@@ -1,0 +1,11 @@
+/*.app{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: inherit;
+    border: 10px solid whitesmoke;
+}
+body{
+    background-color: rgb(110, 8, 194);
+}*/

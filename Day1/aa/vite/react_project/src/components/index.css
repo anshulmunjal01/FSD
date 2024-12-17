@@ -1,0 +1,9 @@
+.f{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.d{
+    flex: 0 1 30%;
+    margin: 10px;
+}

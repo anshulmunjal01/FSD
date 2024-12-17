@@ -1,0 +1,18 @@
+.aa{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    height: 30px;
+}
+li{
+    list-style-type: none;
+}
+Link{
+    text-decoration: none;
+    color: red;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+
+}
